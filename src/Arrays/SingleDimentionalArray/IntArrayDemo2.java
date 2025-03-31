@@ -6,7 +6,13 @@ public class IntArrayDemo2 {
 
         int[] a = {34,56,7,8,22,33,67,89} ;
 
-        for(int i=0 ; i<a.length ; i++)
-          System.out.println(a[i]);
+        System.out.println("length="+a.length);
+
+        for(int value:a)
+            System.out.println(value);
+
+
+       /* for(int i=0 ; i<a.length ; i++)
+          System.out.println(a[i]);*/
     }
 }
