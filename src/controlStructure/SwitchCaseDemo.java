@@ -7,7 +7,9 @@ public class SwitchCaseDemo {
         int a = 100;
         int b = 20;
         int c;
-        String operation ="add";
+
+        String operation = "";
+
 
         switch (operation)
         {

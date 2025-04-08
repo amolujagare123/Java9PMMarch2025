@@ -2,7 +2,7 @@ package ClassNConstructors;
 
 public class MyClass2 {
 
-    int a = 89;
+    int a ;
     double d;
     char c;
     String str;

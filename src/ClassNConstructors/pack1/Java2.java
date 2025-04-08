@@ -9,7 +9,7 @@ double d;
 
         Java1 ob = new Java1();
         ob.a = 10 ;
-        ob.d = 6.7;
+     //   ob.d = 6.7;
         ob.c = 'h';
         ob.str = "selenium";
         ob.display();
