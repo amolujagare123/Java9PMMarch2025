@@ -1,6 +1,5 @@
-package CollectionsDemo;
+package CollectionsDemo.vectorDemo;
 
-import java.util.ArrayList;
 import java.util.Vector;
 
 public class VectorDemo {
